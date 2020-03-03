@@ -1,0 +1,1 @@
+Je n'ai pas crée de server mais un react. Sandbox et getBoth doivent être lancé depuis un temrinal afinn de mettre a jour les données. 
